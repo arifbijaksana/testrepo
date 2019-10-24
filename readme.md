@@ -9,5 +9,3 @@ test kedua repository
 
 this is my first portofolio 
 
-# My Work
-test ketiga repository
